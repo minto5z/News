@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/Java/News/app/src/main/res/drawable-v24/ic_calender.xml" value="0.2703125" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/Java/News/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/Java/News/app/src/main/res/layout/single_row.xml" value="0.264" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/drawable-anydpi/ic_notification.xml" value="0.2703125" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/drawable-v24/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/drawable-v24/ic_settings.xml" value="0.2703125" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/business_layout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/entertainment_layout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/health_layout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/home_layout.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/music_layout.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/nav_header.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/politics_layout.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/single_row.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/layout/technology_layout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.2703125" />
+        <entry key="..\:/Users/Manjeet Yadav/AndroidStudioProjects/News/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

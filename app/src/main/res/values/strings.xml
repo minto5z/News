@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- Strings used for Open Nav and Close Nav -->
+
+    <string name="open_navigation">Open Navigation Drawer</string>
+    <string name="close_navigation">Close Navigation Drawer</string>
+
+
+    <!-- Strings used in menu of NavHeader -->
+
+
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_entertainment">Film</string>
+    <string name="menu_title_sport">Sports</string>
+    <string name="menu_title_politics">Politics</string>
+
+
+    <!-- Strings used in singleRow layout-->
+
+    <string name="tools_title">Title</string>
+    <string name="tools_source">Source</string>
+    <string name="tools_Date">Date</string>
+    <string name="tools_description">Description</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Strings used in Manifests for Activity Name -->
+
+    <string name="mainActivity_name">News</string>
+    <string name="settingsActivity_name">Settings</string>
+    <string name="menu_title_business">Business</string>
+    <string name="menu_title_health">Health</string>
+    <string name="menu_title_technology">Technology</string>
+    <string name="tools_category">Category</string>
+
+
+</resources>

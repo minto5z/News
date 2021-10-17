@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_title_home" />
+        <item
+            android:id="@+id/sports_menu"
+            android:icon="@drawable/ic_sport"
+            android:title="@string/menu_title_sport" />
+
+        <item
+            android:id="@+id/technology_menu"
+            android:icon="@drawable/ic_technology"
+            android:title="@string/menu_title_technology" />
+
+        <item
+            android:id="@+id/health_menu"
+            android:icon="@drawable/ic_health"
+            android:title="@string/menu_title_health" />
+        <item
+            android:id="@+id/business_menu"
+            android:icon="@drawable/ic_business"
+            android:title="@string/menu_title_business" />
+        <item
+            android:id="@+id/entertainment_menu"
+            android:icon="@drawable/ic_film"
+            android:title="@string/menu_title_entertainment" />
+
+
+    </group>
+
+
+</menu>
